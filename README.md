@@ -32,6 +32,4 @@ Feel free to raise any issues or contribute to improving the project. If you enc
 
 #### Tags: `#mini-project` `#voting-system` `#C-language`
 
----
 
-This version is ready for GitHub, and includes the necessary instructions and a brief project overview without the code samples.
